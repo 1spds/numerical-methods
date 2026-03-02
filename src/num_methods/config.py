@@ -1,0 +1,2 @@
+TOL = 1e-6
+MAX_ITER = 100
